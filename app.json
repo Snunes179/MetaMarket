@@ -4,12 +4,12 @@
     "slug": "MetaMarket",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/MetaMkt_logo1024.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/MetaMkt_logo1024.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#192734"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
